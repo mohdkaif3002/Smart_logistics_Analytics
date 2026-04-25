@@ -1,0 +1,13 @@
+Month,Best_Route,Delay_%,Cost_per_km,Avg_Days,Score
+Jan,Kolkata-Bhubaneswar,20.5,83.0,1.5,0.5351
+Feb,Chennai-Bangalore,6.2,83.0,1.1,0.6172
+Mar,Surat-Mumbai,18.9,83.0,1.5,0.5492
+Apr,Delhi-Jaipur,18.8,85.0,1.5,0.5412
+May,Chennai-Bangalore,6.9,85.0,1.2,0.6116
+Jun,Kolkata-Bhubaneswar,13.9,83.0,1.3,0.5727
+Jul,Mumbai-Pune,12.9,86.0,1.3,0.5706
+Aug,Delhi-Jaipur,19.3,87.0,1.5,0.5318
+Sep,Kolkata-Bhubaneswar,18.9,85.0,1.5,0.5393
+Oct,Kolkata-Bhubaneswar,19.1,85.0,1.5,0.542
+Nov,Delhi-Jaipur,19.9,84.0,1.5,0.535
+Dec,Kolkata-Bhubaneswar,10.4,83.0,1.2,0.6018
