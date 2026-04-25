@@ -4,7 +4,7 @@ import numpy as np
 import joblib
 import json
 
-BASE = "/content/drive/MyDrive/Smart_Logistics_Analytics_System/"
+BASE = ""
 
 st.set_page_config(page_title="Smart Logistics Analytics", page_icon="🚛", layout="wide")
 
